@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -la
-cd -
-ls -la
-ls -la /boot
+ls -all cd - ls -all ls -all /boot
