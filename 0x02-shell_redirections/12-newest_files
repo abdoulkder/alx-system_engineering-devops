@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt --time-style=+%Y-%m-%d_%H:%M:%S | awk 'NR>1 {print $NF}' | head -n 10
